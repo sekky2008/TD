@@ -1,2 +1,6 @@
 theis for testing
-selenium testing fram work from master branch
+
+selenium testing fram work from master 
+use JUnit testing
+from stage branch
+stage
